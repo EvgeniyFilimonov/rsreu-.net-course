@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01.csproj": {}
+    "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01\\Task_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01.csproj": {
+    "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01\\Task_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01.csproj",
+        "projectUniqueName": "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01\\Task_01.csproj",
         "projectName": "Task_01",
-        "projectPath": "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01.csproj",
+        "projectPath": "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01\\Task_01.csproj",
         "packagesPath": "C:\\Users\\Evgen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\obj\\",
+        "outputPath": "C:\\Users\\Evgen\\source\\repos\\rsreu-.net-course\\sourse\\Task_01\\Task_01\\Task_01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -46,8 +46,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -59,30 +59,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
