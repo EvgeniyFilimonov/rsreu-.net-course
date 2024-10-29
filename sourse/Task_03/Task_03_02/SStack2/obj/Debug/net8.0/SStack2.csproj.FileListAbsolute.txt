@@ -1,0 +1,14 @@
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\SStack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\SStack2.AssemblyInfoInputs.cache
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\SStack2.AssemblyInfo.cs
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\SStack2.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\source\repos\SStack2\SStack2\bin\Debug\net8.0\SStack2.exe
+C:\Users\Evgen\source\repos\SStack2\SStack2\bin\Debug\net8.0\SStack2.deps.json
+C:\Users\Evgen\source\repos\SStack2\SStack2\bin\Debug\net8.0\SStack2.runtimeconfig.json
+C:\Users\Evgen\source\repos\SStack2\SStack2\bin\Debug\net8.0\SStack2.dll
+C:\Users\Evgen\source\repos\SStack2\SStack2\bin\Debug\net8.0\SStack2.pdb
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\SStack2.dll
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\refint\SStack2.dll
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\SStack2.pdb
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\SStack2.genruntimeconfig.cache
+C:\Users\Evgen\source\repos\SStack2\SStack2\obj\Debug\net8.0\ref\SStack2.dll
