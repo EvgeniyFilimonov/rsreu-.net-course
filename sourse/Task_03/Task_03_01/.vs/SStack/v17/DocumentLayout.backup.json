@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Evgen\\rsreu-.net-course\\sourse\\Task_03\\Task_03_01\\",
+  "WorkspaceRootPath": "C:\\Users\\Evgen\\source\\rsreu-.net-course\\sourse\\Task_03\\Task_03_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C1C4664-F2DE-425E-94AC-F3F4785C04DC}|SStack\\SStack.csproj|c:\\users\\evgen\\rsreu-.net-course\\sourse\\task_03\\task_03_01\\sstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C1C4664-F2DE-425E-94AC-F3F4785C04DC}|SStack\\SStack.csproj|c:\\users\\evgen\\source\\rsreu-.net-course\\sourse\\task_03\\task_03_01\\sstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C1C4664-F2DE-425E-94AC-F3F4785C04DC}|SStack\\SStack.csproj|solutionrelative:sstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Evgen\\rsreu-.net-course\\sourse\\Task_03\\Task_03_01\\SStack\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Evgen\\source\\rsreu-.net-course\\sourse\\Task_03\\Task_03_01\\SStack\\Program.cs",
               "RelativeDocumentMoniker": "SStack\\Program.cs",
-              "ToolTip": "C:\\Users\\Evgen\\rsreu-.net-course\\sourse\\Task_03\\Task_03_01\\SStack\\Program.cs",
+              "ToolTip": "C:\\Users\\Evgen\\source\\rsreu-.net-course\\sourse\\Task_03\\Task_03_01\\SStack\\Program.cs",
               "RelativeToolTip": "SStack\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T17:45:10.087Z",
               "EditorCaption": ""

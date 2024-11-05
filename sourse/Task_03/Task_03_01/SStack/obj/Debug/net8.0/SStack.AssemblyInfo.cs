@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SStack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4357bb9186797b5b0d2969383426ca693420c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4251e9969aadb10bdcbdd64dcb9ed801719b0879")]
 [assembly: System.Reflection.AssemblyProductAttribute("SStack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SStack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
