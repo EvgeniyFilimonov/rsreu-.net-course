@@ -1,0 +1,14 @@
+C:\Users\Evgen\source\repos\SStack4\SStack4\bin\Debug\net8.0\SStack4.exe
+C:\Users\Evgen\source\repos\SStack4\SStack4\bin\Debug\net8.0\SStack4.deps.json
+C:\Users\Evgen\source\repos\SStack4\SStack4\bin\Debug\net8.0\SStack4.runtimeconfig.json
+C:\Users\Evgen\source\repos\SStack4\SStack4\bin\Debug\net8.0\SStack4.dll
+C:\Users\Evgen\source\repos\SStack4\SStack4\bin\Debug\net8.0\SStack4.pdb
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\SStack4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\SStack4.AssemblyInfoInputs.cache
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\SStack4.AssemblyInfo.cs
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\SStack4.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\SStack4.dll
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\refint\SStack4.dll
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\SStack4.pdb
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\SStack4.genruntimeconfig.cache
+C:\Users\Evgen\source\repos\SStack4\SStack4\obj\Debug\net8.0\ref\SStack4.dll
